@@ -1,0 +1,17 @@
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Business.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Model.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Business.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\bin\Debug\net5.0\Model.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Data\obj\Debug\net5.0\ref\Data.dll

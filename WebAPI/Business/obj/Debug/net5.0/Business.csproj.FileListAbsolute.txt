@@ -1,0 +1,15 @@
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\bin\Debug\net5.0\Model.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\bin\Debug\net5.0\Model.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\Domvs\Documents\Estudos\arq3\WebAPI\Business\obj\Debug\net5.0\ref\Business.dll

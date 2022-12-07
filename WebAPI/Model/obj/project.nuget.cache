@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p15qANBDfUiauUqTxz4N12O4Xi3UvJy5qeOK7WrMCMzJuc0z9S3juRjoPNcYntyxYVbBTbjgJFruTL3adLqc4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Domvs\\Documents\\Estudos\\arq3\\WebAPI\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
